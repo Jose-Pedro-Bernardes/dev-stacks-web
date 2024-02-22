@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main>
-      <div></div>
+    <main className="text-sky-500">
+      Hello Trello
     </main>
-  )
+  );
 }
